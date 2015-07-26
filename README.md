@@ -1,1 +1,2 @@
-# docker-terraform
+# Dockerized Terraform
+It is designed to be used inside any Docker environment, such as build in the Jenkins CI with Docker enabled like [killercentury/jenkins-dind](https://registry.hub.docker.com/u/killercentury/jenkins-dind/).
